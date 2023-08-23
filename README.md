@@ -1,5 +1,5 @@
 # Constraints_Info
-View and select constraints easily for a selected objecta and its parent.
+View and select constraints easily for a selected object and its parent.
 
 Open with:
 
@@ -17,6 +17,6 @@ Here are some incoming developments:
 * Re-Initialize button.
 * More information: Target of, other input connections.
 
-This tool was created to be a helpful tool for animators, and for coding practice. I am still an inexperienced coder, and will gladly accept criticism and advice.
+This tool was created to be a helpful tool for animators and for coding practice. I am still an inexperienced coder, and will gladly accept criticism and advice.
 
 -Leevi
