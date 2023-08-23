@@ -10,6 +10,9 @@ ci.viewConstraintsUI()
 
 ## About the tool
 
+![image](https://github.com/Leewired/Constraint_Info/assets/123822810/b93c9ff3-2dad-47fa-943d-d328a42cf6dc)
+
+
 Here are some incoming developments:
 * Re-Initialize button.
 * More information: Target of, other input connections.
